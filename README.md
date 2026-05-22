@@ -1,4 +1,4 @@
-<h1>Hi, I'm Diego! <br/><a href="https://github.com/Diego2803-png">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Future Data Scientist</a>, 
+<h1>Hi, I'm Diego! <br/><a href="https://github.com/Diego2803-png">Programmer</a>, <a href="www.linkedin.com/in/diego-ventura-465b76314">Future Data Scientist</a>, 
 <a>Actuarial Science Student</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
