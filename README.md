@@ -4,5 +4,5 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Machine Learning Projects</b>
-  - [Agri-Price Forecasting & Supply Chain Optimization]():
+  - [Agri-Price Forecasting & Supply Chain Optimization](https://github.com/Diego2803-png/agri-price-forecasting-supply-chain):
     Modelado predictivo híbrido (Regresión Lineal + Descomposición Multiplicativa) que automatiza la detección de mínimos y máximos     anuales en mercados mayoristas para optimizar costos de inventario.
