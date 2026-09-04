@@ -4,5 +4,4 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Machine Learning Projects</b>
-  - [Agri-Price Forecasting & Supply Chain Optimization](https://github.com/Diego2803-png/agri-price-forecasting-supply-chain):
-      Hybrid Predictive Model: Leveraging Linear Regression and Multiplicative Decomposition to automate the detection of annual          highs and lows in wholesale markets, enhancing inventory cost optimization.
+  [Credit Risk Scoring Model](TU_LINK_DEL_REPO): Logistic regression model trained on the German Credit Data dataset to predict         loan default risk, achieving a 0.83 ROC-AUC score; includes exploratory data analysis, categorical feature encoding, and            business-oriented evaluation of model trade-offs.
